@@ -80,11 +80,11 @@ function firstNPrimes(n) {
     return arr;
 }
 
-console.log(sumOfNPrimes(0));
-// 0
+// console.log(sumOfNPrimes(0));
+// // 0
 
-console.log(sumOfNPrimes(1));
-// 2
+// console.log(sumOfNPrimes(1));
+// // 2
 
-console.log(sumOfNPrimes(4));
-// 17
+// console.log(sumOfNPrimes(4));
+// // 17
