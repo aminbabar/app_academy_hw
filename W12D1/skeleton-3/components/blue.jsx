@@ -11,6 +11,7 @@ class Blue extends React.Component {
         {/* Links here */}
 
         {/* Routes here */}
+        <Route path="/blue/Indigo" component={Indigo} />
       </div>
     );
   }
