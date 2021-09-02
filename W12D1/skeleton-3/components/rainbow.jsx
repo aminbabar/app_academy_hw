@@ -15,10 +15,10 @@ class Rainbow extends React.Component {
     return (
       <div>
         <h1>Rainbow Router!</h1>
-        <Link to="/red">Red</Link>
-        <Link to="/green">green</Link>
-        <Link to="/blue">blue</Link>
-        <Link to="/violet">violet</Link>
+        <NavLink to="/red">Red</NavLink>
+        <NavLink to="/green">green</NavLink>
+        <NavLink to="/blue">blue</NavLink>
+        <NavLink to="/violet">violet</NavLink>
         {/* Your links should go here */}
         <div id="rainbow">
           
